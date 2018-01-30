@@ -12,8 +12,3 @@ The XBee-Adapter is an USB to serial adapter and breakout for XBee modules.
 
 ## Shop
 * [XBee-Adapter](http://www.watterott.com/en/USB-Xbee-Adapter)
-
-
-## Hardware and Software
-* [Schematics + Layout](https://github.com/watterott/XBee-Adapter/tree/master/hardware)
-* [FTDI Serial Port Driver (VCP)](http://www.ftdichip.com/Drivers/VCP.htm)
