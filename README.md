@@ -8,7 +8,4 @@ The XBee-Adapter is an USB to serial adapter and breakout for XBee modules.
 * Status LEDs
 * All pins available on 2.54mm headers
 * microUSB-Connector
-
-
-## Shop
-* [XBee-Adapter](http://www.watterott.com/en/USB-Xbee-Adapter)
+* **[Documentation on learn.watterott.com](http://learn.watterott.com/bee-modules/adapter/)**
